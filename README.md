@@ -1,4 +1,3 @@
-````markdown
 <div align="center">
 
 # 🎮 C++ Game Development Collection
@@ -11,8 +10,9 @@ From console-based applications to complete 2D games, this repository showcases 
 
 ![Language](https://img.shields.io/badge/Language-C%2B%2B-blue?style=for-the-badge)
 ![Library](https://img.shields.io/badge/Library-SFML-green?style=for-the-badge)
-![Projects](https://img.shields.io/badge/Projects-6-orange?style=for-the-badge)
+![Projects](https://img.shields.io/badge/Projects-7-orange?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 
 </div>
 
@@ -24,16 +24,23 @@ From console-based applications to complete 2D games, this repository showcases 
 Games/
 │
 ├── README.md
+├── LICENSE
+├── .gitignore
 │
 ├── Projects/
 │   ├── Console-Quiz-Game/
 │   ├── Ping-Pong/
 │   ├── Breakout/
 │   ├── Tetris/
+│   ├── Snake/
 │   ├── Space-Invaders/
 │   └── Chess/
 │
 └── Resources/
+    ├── Banner/
+    ├── Icons/
+    ├── Logo/
+    └── README-Assets/
 ```
 
 ---
@@ -57,7 +64,7 @@ Each project is designed to strengthen programming fundamentals while introducin
 - Audio Integration
 - Software Design
 
-Every game is contained within its own project folder with dedicated source code, documentation, and resources.
+Every game is contained within its own project folder with dedicated source code, documentation, and resources — making each one independent enough to eventually become its own standalone repository.
 
 ---
 
@@ -68,6 +75,7 @@ Every game is contained within its own project folder with dedicated source code
 | 📝 **Console Quiz Game** | C++ | A file-based quiz application featuring multiple quizzes, score management, and persistent data storage. |
 | 🏓 **Ping Pong** | C++ + SFML | A modern recreation of the classic Pong game featuring smooth gameplay, scoring, and collision physics. |
 | 🧱 **Breakout** | C++ + SFML | A brick-breaking arcade game with multiple brick layouts, collision mechanics, and score tracking. |
+| 🐍 **Snake** | C++ + SFML | A classic Snake game featuring grid-based movement, self-collision detection, and dynamic growth mechanics. |
 | 🧩 **Tetris** | C++ + SFML | A complete implementation of Tetris featuring piece rotation, line clearing, hold functionality, next-piece preview, and scoring. |
 | 🚀 **Space Invaders** | C++ + SFML | An enhanced Space Invaders experience featuring multiple levels, unique enemy types, different maps, background music, sound effects, pause menu, multiple player spaceships, power-ups, and progressively challenging gameplay. |
 | ♟ **Chess** | C++ + SFML | A complete chess game implementing legal move validation, check/checkmate detection, turn management, and full chess rules. |
@@ -175,6 +183,12 @@ Rather than simply recreating existing games, I focus on understanding how they 
 
 ---
 
+# 📜 License
+
+This repository is licensed under the **MIT License** — see the [LICENSE](./LICENSE) file for details.
+
+---
+
 <div align="center">
 
 ### Thanks for visiting!
@@ -184,4 +198,3 @@ If you enjoyed exploring these projects, feel free to browse each project's fold
 **Happy Coding! 🚀**
 
 </div>
-````
