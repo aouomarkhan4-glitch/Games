@@ -58,7 +58,7 @@
 ## ▶️ How to Run
 
 1. Make sure **SFML** is installed and linked in your build environment.
-2. Compile `ConsoleApplication6 (breakout).cpp` with your C++ compiler, linking against SFML.
+2. Compile `breakout.cpp` with your C++ compiler, linking against SFML.
 3. Run the generated executable.
 4. Press **Space** to launch the ball, and use **A** / **D** to control the paddle.
 
