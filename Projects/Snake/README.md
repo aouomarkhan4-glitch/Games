@@ -28,6 +28,17 @@
 
 ---
 
+## 🖼 Screenshots
+
+<div align="center">
+
+<img src="./screenshots/screenshot1.png" alt="Snake Gameplay 1" width="45%">
+<img src="./screenshots/screenshot2.png" alt="Snake Gameplay 2" width="45%">
+
+</div>
+
+---
+
 ## 🍎 Gameplay Elements
 
 | Element | Color | Meaning |
