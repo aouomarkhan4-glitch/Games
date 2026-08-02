@@ -1,0 +1,294 @@
+What is the function of an operating system?
+a) Manage hardware and software
+b) Display images
+c) Scan documents
+d) Play music
+a
+Which of the following is an example of system software?
+a) MS Word
+b) Windows 10
+c) VLC Player
+d) Chrome
+b
+Which one is not a type of computer memory?
+a) RAM
+b) ROM
+c) CPU
+d) Cache
+c
+Which protocol is used to transfer web pages?
+a) FTP
+b) HTTP
+c) SMTP
+d) POP3
+b
+What does SSD stand for?
+a) Solid State Drive
+b) Static Storage Disk
+c) System Software Device
+d) Secure Storage Drive
+a
+Which part of the CPU performs calculations?
+a) CU
+b) ALU
+c) RAM
+d) ROM
+b
+Which of these is an example of an application software?
+a) BIOS
+b) Linux Kernel
+c) PowerPoint
+d) Device Driver
+c
+Which file extension belongs to an executable file?
+a) .txt
+b) .exe
+c) .jpg
+d) .pdf
+b
+Which device connects multiple computers in a network?
+a) Modem
+b) Router
+c) Printer
+d) Monitor
+b
+Which memory is known as volatile memory?
+a) ROM
+b) RAM
+c) SSD
+d) HDD
+b
+What is the purpose of a firewall?
+a) Store data
+b) Cool the computer
+c) Protect from unauthorized access
+d) Display graphics
+c
+Which of these is not an operating system?
+a) Android
+b) Linux
+c) Photoshop
+d) Windows
+c
+What is the speed of a processor measured in?
+a) Inches
+b) GHz
+c) Mbps
+d) Volts
+b
+Which of these is a wired network medium?
+a) Bluetooth
+b) Wi-Fi
+c) Ethernet
+d) Infrared
+c
+What does IP in IP address stand for?
+a) Internal Process
+b) Internet Protocol
+c) Inter Program
+d) Input Port
+b
+Which shortcut selects all text?
+a) Ctrl + C
+b) Ctrl + S
+c) Ctrl + A
+d) Ctrl + X
+c
+What is the function of DNS?
+a) Store emails
+b) Translate domain names to IP
+c) Compress files
+d) Manage RAM
+b
+Which device is used to project images on a screen?
+a) Scanner
+b) Speaker
+c) Projector
+d) Router
+c
+Which of these is an example of open-source software?
+a) MS Excel
+b) Windows
+c) Linux
+d) Adobe Photoshop
+c
+Which type of storage is faster?
+a) HDD
+b) DVD
+c) SSD
+d) Tape drive
+c
+What does GUI stand for?
+a) Global User Interface
+b) Graphical User Interface
+c) General Utility Interface
+d) Graphic Utility Information
+b
+Which command is used to copy a file in Windows?
+a) move
+b) delete
+c) copy
+d) run
+c
+Which port is used for high-quality video output?
+a) USB
+b) HDMI
+c) Audio jack
+d) VGA
+b
+What is cloud computing?
+a) Weather prediction
+b) Storing and accessing data online
+c) Repairing devices
+d) Printing documents
+b
+What does PDF stand for?
+a) Portable Document Format
+b) Public Data File
+c) Personal Document File
+d) Page Data Format
+a
+What is the function of a compiler?
+a) Edit code
+b) Translate high-level code to machine code
+c) Delete errors
+d) Run programs automatically
+b
+Which of these is an email protocol?
+a) SMTP
+b) HTML
+c) HTTP
+d) CSS
+a
+Which device has the highest latency?
+a) RAM
+b) Cache
+c) Hard Disk
+d) SSD
+c
+Which of these is a programming language?
+a) Windows
+b) Java
+c) Chrome
+d) Gmail
+b
+Which of these extensions represents a compressed file?
+a) .zip
+b) .exe
+c) .mp4
+d) .dll
+a
+Which shortcut is used to open Task Manager?
+a) Ctrl + Shift + Esc
+b) Ctrl + A
+c) Alt + F4
+d) Ctrl + S
+a
+Which of these is a database software?
+a) MySQL
+b) Photoshop
+c) VLC
+d) Paint
+a
+What is phishing?
+a) Saving files
+b) Hacking by fake emails
+c) Speeding up internet
+d) Installing apps
+b
+Which part temporarily stores instructions?
+a) HDD
+b) RAM
+c) Monitor
+d) Keyboard
+b
+What is the main function of a modem?
+a) Store data
+b) Convert digital to analog signals
+c) Print pages
+d) Play audio
+b
+Which of these is a binary number?
+a) 123
+b) 88
+c) 1010
+d) 567
+c
+What is the name of the first web browser?
+a) Internet Explorer
+b) Chrome
+c) WorldWideWeb
+d) Firefox
+c
+What does BIOS do?
+a) Manage startup process
+b) Display wallpapers
+c) Play videos
+d) Connect Wi-Fi
+a
+What is the function of Cache memory?
+a) Long term storage
+b) Speed up processing
+c) Store movies
+d) Provide power backup
+b
+Which port is used for connecting printers?
+a) USB
+b) HDMI
+c) Audio jack
+d) LAN
+a
+Which device converts printed text into digital form?
+a) Projector
+b) Scanner
+c) Speaker
+d) Modem
+b
+What is multitasking?
+a) Doing one task
+b) Doing multiple tasks at the same time
+c) Restarting a PC
+d) Deleting files
+b
+Which file system is used by Windows?
+a) NTFS
+b) ext4
+c) FAT32
+d) Both a and c
+d
+What is encryption used for?
+a) Coloring text
+b) Protecting data
+c) Speeding up RAM
+d) Improving graphics
+b
+What is a pixel?
+a) Sound unit
+b) Video cable
+c) Smallest unit of a digital image
+d) Keyboard button
+c
+Which device measures computer performance?
+a) Speedometer
+b) Benchmark tool
+c) Projector
+d) BIOS
+b
+Which software helps remove malware?
+a) Antivirus
+b) Browser
+c) Paint
+d) File manager
+a
+What type of device is a touchscreen?
+a) Input only
+b) Output only
+c) Both input and output
+d) Neither
+c
+Which memory stores the boot instructions?
+a) RAM
+b) ROM
+c) Cache
+d) Pen drive
+b

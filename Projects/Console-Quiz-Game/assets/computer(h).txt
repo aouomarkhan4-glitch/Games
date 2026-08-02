@@ -1,0 +1,300 @@
+Which scheduling algorithm avoids starvation using aging?
+a) FCFS
+b) Priority Scheduling
+c) Round Robin
+d) Shortest Job First
+b
+Which layer of the OSI model handles routing?
+a) Transport
+b) Network
+c) Data Link
+d) Application
+b
+Which data structure is used in BFS?
+a) Stack
+b) Queue
+c) Tree
+d) Heap
+b
+Which of these is NOT a relational database?
+a) MySQL
+b) PostgreSQL
+c) MongoDB
+d) Oracle
+c
+What is the time complexity of binary search?
+a) O(n)
+b) O(log n)
+c) O(n log n)
+d) O(1)
+b
+Which protocol secures web communication?
+a) HTTP
+b) FTP
+c) HTTPS
+d) Telnet
+c
+Which scheduling technique uses a time quantum?
+a) FCFS
+b) Round Robin
+c) Priority
+d) SJF
+b
+Which of these is NOT a type of virtualization?
+a) Hardware
+b) Software
+c) Network
+d) Fiber
+d
+What is the default port for SSH?
+a) 21
+b) 22
+c) 23
+d) 25
+b
+Which addressing method is used in assembly language?
+a) Tree addressing
+b) Immediate addressing
+c) Graph addressing
+d) Binary addressing
+b
+Which RAID level provides fault tolerance with parity?
+a) RAID 0
+b) RAID 1
+c) RAID 5
+d) RAID 10
+c
+Which data structure is used for recursion?
+a) Queue
+b) Stack
+c) Array
+d) Hash table
+b
+In networking, what does NAT do?
+a) Increase bandwidth
+b) Translate private IPs to public IPs
+c) Encrypt data
+d) Test connection
+b
+Which algorithm is used in public-key cryptography?
+a) DES
+b) AES
+c) RSA
+d) MD5
+c
+What does the ACID property ensure?
+a) Fast output
+b) Database reliability
+c) Faster search
+d) Internet security
+b
+Which of these is NOT a type of malware?
+a) Worm
+b) Trojan
+c) Kernel
+d) Ransomware
+c
+Which OS component schedules processes?
+a) Shell
+b) Kernel
+c) BIOS
+d) GUI
+b
+Which command in Linux lists processes?
+a) ps
+b) cp
+c) rm
+d) cat
+a
+Which protocol is used to send email?
+a) POP3
+b) SMTP
+c) HTTP
+d) DNS
+b
+Which of these is a NoSQL database?
+a) SQLite
+b) MongoDB
+c) PostgreSQL
+d) MariaDB
+b
+Which technique detects deadlock?
+a) Banker's algorithm
+b) DFS
+c) Disk scheduling
+d) Paging
+a
+What is the highest level of cache?
+a) L1
+b) L2
+c) L3
+d) L4
+a
+Which disk scheduling algorithm is fastest on average?
+a) FCFS
+b) SCAN
+c) SSTF
+d) LOOK
+c
+Which encryption method is symmetric?
+a) RSA
+b) ECC
+c) AES
+d) DSA
+c
+Which device stores microcode?
+a) RAM
+b) ROM
+c) Cache
+d) SSD
+b
+Which of these is NOT part of TCP 3-way handshake?
+a) SYN
+b) ACK
+c) SYN-ACK
+d) FIN
+d
+What is the purpose of paging?
+a) Organize files
+b) Allow non-contiguous memory
+c) Increase CPU speed
+d) Allocate CPU time
+b
+Which algorithm finds the shortest path in weighted graphs?
+a) BFS
+b) Dijkstra
+c) DFS
+d) Kruskal
+b
+Which protocol resolves IP to MAC?
+a) DNS
+b) ARP
+c) DHCP
+d) TCP
+b
+Which type of OS supports multiple users at once?
+a) Single-user
+b) Multi-user
+c) Real-time
+d) Embedded
+b
+Which memory is fastest?
+a) HDD
+b) RAM
+c) Cache
+d) SSD
+c
+What is the purpose of a device driver?
+a) Store data
+b) Communicate with hardware
+c) Cool the CPU
+d) Secure files
+b
+Which algorithm is used in Git version control?
+a) SHA-1
+b) MD4
+c) RSA
+d) Blowfish
+a
+Which network topology has a single point of failure?
+a) Ring
+b) Star
+c) Mesh
+d) Bus
+b
+Which is the lowest level programming language?
+a) Python
+b) C
+c) Assembly
+d) Machine code
+d
+Which protocol assigns IP addresses automatically?
+a) DNS
+b) DHCP
+c) HTTP
+d) SMTP
+b
+Which device separates collision domains?
+a) Switch
+b) Hub
+c) Repeater
+d) Modem
+a
+Which technique prevents SQL injection?
+a) Faster CPU
+b) Parameterized queries
+c) More RAM
+d) Using SSD
+b
+Which tree is used in priority queues?
+a) AVL
+b) Binary search tree
+c) Heap
+d) Red-black tree
+c
+Which Linux command changes file permissions?
+a) ls
+b) chmod
+c) mkdir
+d) mv
+b
+Which is a lossless compression format?
+a) JPG
+b) PNG
+c) MP3
+d) MP4
+b
+Which method handles collisions in hashing?
+a) Clustering
+b) Chaining
+c) Paging
+d) Overloading
+b
+Which protocol is connection-oriented?
+a) UDP
+b) ICMP
+c) TCP
+d) ARP
+c
+Which disk type has the greatest durability?
+a) HDD
+b) SSD
+c) Tape
+d) Floppy
+b
+Which scheduling algorithm chooses the shortest remaining time?
+a) RR
+b) SJF
+c) SRTF
+d) FCFS
+c
+Which OS uses the EXT4 file system?
+a) Windows
+b) Linux
+c) macOS
+d) Android
+b
+Which layer handles data encryption in OSI?
+a) Presentation
+b) Application
+c) Network
+d) Data Link
+a
+Which protocol is used for remote login?
+a) HTTP
+b) SSH
+c) DNS
+d) FTP
+b
+Which algorithm is used to detect cycles in graphs?
+a) Dijkstra
+b) Floyd-Warshall
+c) DFS
+d) Prim
+c
+Which RAID level mirrors data?
+a) RAID 0
+b) RAID 1
+c) RAID 5
+d) RAID 6
+b

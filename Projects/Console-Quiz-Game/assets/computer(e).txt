@@ -1,0 +1,300 @@
+What does CPU stand for?
+a) Central Process Unit
+b) Central Processing Unit
+c) Control Processing Utility
+d) Central Power Unit
+b
+Which device is used to type text?
+a) Monitor
+b) Mouse
+c) Keyboard
+d) Scanner
+c
+Which part shows the output?
+a) Printer
+b) Monitor
+c) Mouse
+d) CPU
+b
+What is the brain of the computer?
+a) RAM
+b) CPU
+c) Monitor
+d) Hard disk
+b
+Which of these is an input device?
+a) Printer
+b) Keyboard
+c) Monitor
+d) Speaker
+b
+What does RAM stand for?
+a) Random Access Memory
+b) Read Access Memory
+c) Run All Memory
+d) Rapid Access Machine
+a
+Which of these stores data permanently?
+a) RAM
+b) Hard disk
+c) Cache
+d) Register
+b
+Which device controls the cursor?
+a) Keyboard
+b) Mouse
+c) Speaker
+d) Monitor
+b
+Which of these is an output device?
+a) Scanner
+b) Keyboard
+c) Monitor
+d) Mouse
+c
+Which computer part prints documents?
+a) Monitor
+b) Speaker
+c) Printer
+d) CPU
+c
+What is the full form of USB?
+a) Universal System Bus
+b) United Serial Bus
+c) Universal Serial Bus
+d) Utility System Base
+c
+Which key is used to erase text?
+a) Space
+b) Enter
+c) Backspace
+d) Shift
+c
+MS Word is used for what?
+a) Browsing
+b) Writing documents
+c) Playing games
+d) Watching movies
+b
+MS Paint is used for what?
+a) Drawing
+b) Writing
+c) Calculating
+d) Coding
+a
+What is the full form of Wi-Fi?
+a) Wireless Finder
+b) Wide Fidelity
+c) Wireless Fidelity
+d) Wide File Interface
+c
+Which of these is a storage device?
+a) Mouse
+b) Pen Drive
+c) Keyboard
+d) Speaker
+b
+Which part of the computer is also called a VDU?
+a) Monitor
+b) Mouse
+c) CPU
+d) Printer
+a
+What does MB stand for?
+a) Mega Byte
+b) Micro Byte
+c) Mini Bit
+d) Mega Bit
+a
+Which of these is a computer language?
+a) English
+b) French
+c) C++
+d) Arabic
+c
+Which shortcut is used to copy?
+a) Ctrl + V
+b) Ctrl + C
+c) Ctrl + X
+d) Ctrl + Z
+b
+Which one is the operating system?
+a) Chrome
+b) Windows
+c) Facebook
+d) WhatsApp
+b
+What does LAN stand for?
+a) Local Access Network
+b) Line Area Network
+c) Local Area Network
+d) Light Access Node
+c
+What is used to connect to the internet?
+a) Router
+b) Scanner
+c) Speaker
+d) Printer
+a
+What is Google Chrome?
+a) Game
+b) Browser
+c) Antivirus
+d) Software for drawing
+b
+Which key is used to start a new line?
+a) Shift
+b) Alt
+c) Enter
+d) Space
+c
+Which device converts digital signals to sound?
+a) Speaker
+b) Monitor
+c) Mouse
+d) Scanner
+a
+The primary memory of a computer is—
+a) Hard disk
+b) RAM
+c) Pen drive
+d) CD
+b
+Which storage is portable?
+a) Hard disk
+b) RAM
+c) Pen drive
+d) ROM
+c
+What does HTML help with?
+a) Drawing
+b) Making web pages
+c) Playing music
+d) Connecting Wi-Fi
+b
+Which of these is not hardware?
+a) CPU
+b) Monitor
+c) MS Word
+d) Keyboard
+c
+What is the full form of PC?
+a) Personal Computer
+b) Public Computer
+c) Private Chip
+d) Personal Connection
+a
+Which key makes capital letters?
+a) Backspace
+b) Shift
+c) Ctrl
+d) Tab
+b
+Which device captures images?
+a) Webcam
+b) Speaker
+c) Keyboard
+d) Monitor
+a
+A computer cannot work without ?
+a) Mouse
+b) Software
+c) Webcam
+d) USB
+b
+A laptop is—
+a) Portable computer
+b) Big computer
+c) Input device
+d) Output device
+a
+What does ROM store?
+a) Temporary data
+b) Permanent data
+c) Internet data
+d) Audio files
+b
+Which device reads barcodes?
+a) Mouse
+b) Keyboard
+c) Barcode scanner
+d) Monitor
+c
+Which of these is NOT an input device?
+a) Keyboard
+b) Mouse
+c) Scanner
+d) Speaker
+d
+Which storage has the largest capacity?
+a) CD
+b) DVD
+c) Hard disk
+d) Pen drive
+c
+Which company makes Windows?
+a) Google
+b) Apple
+c) Microsoft
+d) Intel
+c
+Which file extension is for images?
+a) .mp3
+b) .jpg
+c) .txt
+d) .exe
+b
+Which of these is a search engine?
+a) VLC
+b) Chrome
+c) Google
+d) Windows
+c
+Which shortcut pastes text?
+a) Ctrl + X
+b) Ctrl + C
+c) Ctrl + V
+d) Ctrl + A
+c
+What does Ctrl + Z do?
+a) Undo
+b) Redo
+c) Save
+d) Close
+a
+Which port is used for sound devices?
+a) USB
+b) Audio jack
+c) HDMI
+d) LAN
+b
+What is a computer virus?
+a) Hardware
+b) Game
+c) Malicious software
+d) Website
+c
+Which device records voice?
+a) Speaker
+b) Microphone
+c) USB
+d) Monitor
+b
+Which of these is used to store songs?
+a) RAM
+b) Pen drive
+c) Scanner
+d) Printer
+b
+Which key selects all?
+a) Ctrl + S
+b) Ctrl + A
+c) Ctrl + X
+d) Ctrl + W
+b
+What is the internet?
+a) A type of computer
+b) A global network
+c) A printer
+d) A cable
+b

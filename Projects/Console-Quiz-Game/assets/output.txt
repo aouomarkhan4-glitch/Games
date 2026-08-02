@@ -1,0 +1,8 @@
+name :            umar | score :    90 | Science Easy
+name :       umar khan | score :   113 |    IQ Easy
+name :            umar | score :   112 | Science Medium
+name :           hamza | score :   113 | Science Easy
+name :           ahmad | score :    99 |  IQ Medium
+name :         player1 | score :   112 |  IQ Medium
+name :         player2 | score :    68 |  IQ Medium
+name :           usman | score :     9 |  IQ Medium

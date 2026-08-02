@@ -1,0 +1,60 @@
+what your name ?
+a) umar  
+b) usman
+c) ali
+d) ahmad
+a
+what is your age ?
+a) 15
+b) 17
+c) 18
+d) 34
+c
+where are you from ?
+a) multan
+b) lahore
+c) islamabad
+d) karachi
+a
+how many sibling do you have ?
+a) 2
+b) 3
+c) 6
+d) 1
+a
+what's your cast ?
+a) jutt
+b) khan
+c) malik
+d) awan
+b
+what's 2+2 ?
+a) 6
+b) 7
+c) 2
+d) 4
+d
+what's 2/0 ?
+a) 0
+b) 1
+c) error
+d) 8
+c
+what's the cube of 3 ?
+a) 18
+b) 9
+c) 27
+d) 1
+c
+what's 100-39 ?
+a) 61
+b) 71
+c) 69
+d) 70
+a
+what's 34+66 ?
+a) 90
+b) 110
+c) 80
+d) 100
+d

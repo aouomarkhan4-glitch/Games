@@ -1,0 +1,789 @@
+===========================================
+PLAYER: niazi 333 | LEVEL: IQ Easy
+===========================================
+
+Question 1:
+Which thing gives light sun moon star lamp ?
+a) Moon
+b) Star
+c) Sun
+d) Lamp
+Result: CORRECT | Added: 10
+
+Question 2:
+Which is a mammal shark dolphin crocodile duck ?
+a) Shark
+b) Dolphin
+c) Crocodile
+d) Duck
+Result: WRONG | Penalty: -2
+
+Question 3:
+Which number completes the sequence 1 1 2 3 5 ?
+a) 5
+b) 6
+c) 7
+d) 8
+Result: WRONG | Penalty: -2
+
+Question 4:
+Which is a mammal shark dolphin crocodile duck ?
+a) Shark
+b) Dolphin
+c) Crocodile
+d) Duck
+Result: CORRECT | Added: 10
+
+Question 5:
+Complete the pattern 5 10 15 ?
+a) 18
+b) 20
+c) 22
+d) 25
+Result: CORRECT | Added: 10
+
+Question 6:
+Which color is made by mixing red and white ?
+a) Pink
+b) Purple
+c) Orange
+d) Brown
+Result: CORRECT | Added: 15
+
+Question 7:
+If you mix blue and yellow you get which color ?
+a) Green
+b) Purple
+c) Orange
+d) Brown
+Used Lifeline: Replace
+
+Question 7:
+If A is to Z then B is to ?
+a) Y
+b) X
+c) Z
+d) W
+Result: CORRECT | Added: 10
+
+Question 8:
+Which is the odd one out apple banana carrot grape ?
+a) Apple
+b) Banana
+c) Carrot
+d) Grape
+Result: CORRECT | Added: 25
+
+Question 9:
+Which one is a vegetable potato apple carrot mango ?
+a) Potato
+b) Apple
+c) Mango
+d) None
+Result: CORRECT | Added: 10
+
+Question 10:
+Which number equals ten in digits ten twenty five one ?
+a) Twenty
+b) Ten
+c) Five
+d) One
+Result: WRONG | Penalty: -2
+-------------------------------------------
+FINAL SCORE: 84
+===========================================
+===========================================
+PLAYER: umar khan | LEVEL: IQ Easy
+===========================================
+
+Question 1:
+Which item is used to drink water glass cup plate spoon ?
+a) Plate
+b) Spoon
+c) Glass
+d) Cup
+Result: CORRECT | Added: 10
+
+Question 2:
+Which tool is used to measure time clock scale ruler thermometer ?
+a) Clock
+b) Scale
+c) Ruler
+d) Thermometer
+Result: CORRECT | Added: 10
+
+Question 3:
+What is 3 plus 4 ?
+a) 6
+b) 7
+c) 8
+d) 9
+Result: CORRECT | Added: 15
+
+Question 4:
+Which is heavier kilogram gram tonne litre ?
+a) Gram
+b) Kilogram
+c) Litre
+d) Tonne
+Result: CORRECT | Added: 10
+
+Question 5:
+Which one is a vegetable potato apple carrot mango ?
+a) Potato
+b) Apple
+c) Mango
+d) None
+Result: CORRECT | Added: 25
+
+Question 6:
+What is the antonym of big small tall short ?
+a) Small
+b) Tall
+c) Short
+d) Large
+Result: WRONG | Penalty: -2
+
+Question 7:
+What is 3 plus 4 ?
+a) 6
+b) 7
+c) 8
+d) 9
+Result: CORRECT | Added: 10
+
+Question 8:
+Which comes next in the letters A B C ?
+a) D
+b) E
+c) F
+d) G
+Result: CORRECT | Added: 10
+
+Question 9:
+What is the next number 2 3 5 7 ?
+a) 9
+b) 10
+c) 11
+d) 12
+Result: CORRECT | Added: 15
+
+Question 10:
+Which color is made by mixing red and white ?
+a) Pink
+b) Purple
+c) Orange
+d) Brown
+Result: CORRECT | Added: 10
+-------------------------------------------
+FINAL SCORE: 113
+===========================================
+
+===========================================
+PLAYER: umar | LEVEL: Computer Easy
+===========================================
+
+Question 1:
+What is used to connect to the internet?
+a) Router
+b) Scanner
+c) Speaker
+d) Printer
+Result: CORRECT | Added: 10
+
+Question 2:
+Which file extension is for images?
+a) .mp3
+b) .jpg
+c) .txt
+d) .exe
+Result: CORRECT | Added: 10
+
+Question 3:
+What is used to connect to the internet?
+a) Router
+b) Scanner
+c) Speaker
+d) Printer
+Result: CORRECT | Added: 15
+
+Question 4:
+What does Ctrl + Z do?
+a) Undo
+b) Redo
+c) Save
+d) Close
+Result: WRONG | Penalty: -2
+
+Question 5:
+Which device reads barcodes?
+a) Mouse
+b) Keyboard
+c) Barcode scanner
+d) Monitor
+===========================================
+PLAYER: umar | LEVEL: Science Medium
+===========================================
+
+Question 1:
+What is the movement of molecules from high to low concentration called?
+a) osmosis
+b) diffusion
+c) filtration
+d) condensation
+Result: CORRECT | Added: 10
+
+Question 2:
+What is the pH value of pure water?
+a) 5
+b) 7
+c) 9
+d) 10
+Result: CORRECT | Added: 10
+
+Question 3:
+What is the powerhouse of the cell?
+a) ribosome
+b) nucleus
+c) mitochondria
+d) vacuole
+Result: CORRECT | Added: 15
+
+Question 4:
+What is the powerhouse of the cell?
+a) ribosome
+b) nucleus
+c) mitochondria
+d) vacuole
+Result: CORRECT | Added: 10
+
+Question 5:
+What phenomenon causes the bending of light when it enters water?
+a) reflection
+b) refraction
+c) dispersion
+d) diffraction
+Result: CORRECT | Added: 25
+
+Question 6:
+What part of the brain controls balance?
+a) cerebrum
+b) medulla
+c) cerebellum
+d) hypothalamus
+Result: WRONG | Penalty: -3
+
+Question 7:
+What causes tides on Earth?
+a) Earth’s rotation
+b) Moon’s gravity
+c) Sun’s light
+d) Earth’s winds
+Result: CORRECT | Added: 10
+
+Question 8:
+Which organelle is responsible for protein synthesis?
+a) mitochondria
+b) ribosome
+c) nucleus
+d) lysosome
+Result: CORRECT | Added: 10
+
+Question 9:
+Which scientist proposed the three laws of motion?
+a) Einstein
+b) Newton
+c) Galileo
+d) Bohr
+Result: CORRECT | Added: 15
+
+Question 10:
+What is the chemical formula for table salt?
+a) CO₂
+b) HCl
+c) NaCl
+d) CaCO₃
+Result: CORRECT | Added: 10
+-------------------------------------------
+FINAL SCORE: 112
+===========================================
+
+===========================================
+PLAYER: hamza | LEVEL: Science Easy
+===========================================
+
+Question 1:
+What force pulls objects toward Earth?
+a) electricity
+b) magnetism
+c) gravity
+d) friction
+Result: CORRECT | Added: 10
+
+Question 2:
+What do animals need to survive?
+a) food
+b) air
+c) water
+d) all of these
+Result: CORRECT | Added: 10
+
+Question 3:
+What part of the plant is green?
+a) root
+b) stem
+c) leaf
+d) flower
+Result: CORRECT | Added: 15
+
+Question 4:
+What is the study of plants called?
+a) zoology
+b) botany
+c) geology
+d) physics
+Result: WRONG | Penalty: -2
+
+Question 5:
+What do humans breathe in?
+a) carbon dioxide
+b) nitrogen
+c) oxygen
+d) helium
+Result: CORRECT | Added: 10
+
+Question 6:
+What do magnets attract?
+a) plastic
+b) paper
+c) iron
+d) wood
+Result: CORRECT | Added: 10
+
+Question 7:
+What do plants need to make food?
+a) sunlight
+b) oil
+c) sugar
+d) sand
+Result: CORRECT | Added: 15
+
+Question 8:
+Which part of a tree makes fruits?
+a) root
+b) trunk
+c) branch
+d) flower
+Result: CORRECT | Added: 10
+
+Question 9:
+What is the freezing point of water?
+a) 100C
+b)   0C
+c)  10C
+d)  20C
+Result: CORRECT | Added: 25
+
+Question 10:
+What is the freezing point of water?
+a) 100C
+b)   0C
+c)  10C
+d)  20C
+Result: CORRECT | Added: 10
+-------------------------------------------
+FINAL SCORE: 113
+===========================================
+
+===========================================
+PLAYER: ahmad | LEVEL: IQ Medium
+===========================================
+
+Question 1:
+Which is the odd one out ?
+a) Lion
+b) Tiger
+c) Leopard
+d) Horse
+Result: TIMEOUT | Penalty: -3
+
+Question 2:
+Which object is used for measuring weight ?
+a) Ruler
+b) Scale
+c) Clock
+d) Thermometer
+Result: CORRECT | Added: 10
+
+Question 3:
+Find the next number 11 22 33 ?
+a) 44
+b) 55
+c) 66
+d) 77
+Result: CORRECT | Added: 10
+
+Question 4:
+Which shape has six sides ?
+a) Square
+b) Pentagon
+c) Hexagon
+d) Octagon
+Result: CORRECT | Added: 15
+
+Question 5:
+Complete the sequence 1 4 9 16 ?
+a) 20
+b) 24
+c) 25
+d) 30
+Lifeline Used: 50/50
+Result: WRONG | Penalty: -3
+
+Question 6:
+Find the next number 11 22 33 ?
+a) 44
+b) 55
+c) 66
+d) 77
+Result: CORRECT | Added: 10
+
+Question 7:
+What is the next number 50 45 40 ?
+a) 35
+b) 38
+c) 39
+d) 33
+Result: CORRECT | Added: 10
+
+Question 8:
+Which is the smallest 2 5 9 11 ?
+a) 2
+b) 5
+c) 9
+d) 11
+Result: CORRECT | Added: 15
+
+Question 9:
+Find the missing number 6 12 18 24 ?
+a) 28
+b) 30
+c) 32
+d) 36
+Result: CORRECT | Added: 10
+
+Question 10:
+Which picture represents a solid object ?
+a) Square
+b) Circle
+c) Cube
+d) Triangle
+Result: CORRECT | Added: 25
+-------------------------------------------
+FINAL SCORE: 99
+===========================================
+
+===========================================
+PLAYER: player1 | LEVEL: IQ Medium
+===========================================
+
+Question 1:
+Which letter comes between J and L ?
+a) I
+b) K
+c) M
+d) N
+Result: CORRECT | Added: 10
+
+Question 2:
+Find the missing number 4 8 12 16 ?
+a) 18
+b) 20
+c) 24
+d) 28
+Result: CORRECT | Added: 10
+
+Question 3:
+Which number completes 2 4 8 16 ?
+a) 24
+b) 30
+c) 32
+d) 36
+Result: WRONG | Penalty: -3
+===========================================
+PLAYER: player1 | LEVEL: IQ Medium
+===========================================
+
+Question 1:
+Find the next number 3 9 27 ?
+a) 36
+b) 54
+c) 81
+d) 90
+Result: CORRECT | Added: 10
+
+Question 2:
+Which shape has six sides ?
+a) Square
+b) Pentagon
+c) Hexagon
+d) Octagon
+Result: CORRECT | Added: 10
+
+Question 3:
+Which number is 3 more than 27 ?
+a) 28
+b) 29
+c) 30
+d) 31
+Result: CORRECT | Added: 15
+
+Question 4:
+Which number is double of 13 ?
+a) 24
+b) 25
+c) 26
+d) 28
+Result: CORRECT | Added: 10
+
+Question 5:
+If 100 is 10 tens then 200 is ?
+a) 15 tens
+b) 20 tens
+c) 25 tens
+d) 30 tens
+Result: CORRECT | Added: 25
+
+Question 6:
+Next in the pattern 1 3 6 10 ?
+a) 12
+b) 13
+c) 15
+d) 20
+Lifeline Used: Replace
+
+Question 6:
+What comes next in 5 25 125 ?
+a) 150
+b) 250
+c) 375
+d) 625
+Result: CORRECT | Added: 10
+
+Question 7:
+If A is 1 and C is 3 then F is ?
+a) 5
+b) 6
+c) 7
+d) 8
+Result: WRONG | Penalty: -3
+
+Question 8:
+Complete the sequence 1 4 9 16 ?
+a) 20
+b) 24
+c) 25
+d) 30
+Result: CORRECT | Added: 10
+
+Question 9:
+Which letter comes between J and L ?
+a) I
+b) K
+c) M
+d) N
+Result: CORRECT | Added: 10
+
+Question 10:
+If square has 4 sides then pentagon has ?
+a) 4
+b) 5
+c) 6
+d) 7
+Result: CORRECT | Added: 15
+-------------------------------------------
+FINAL SCORE: 112
+===========================================
+
+===========================================
+PLAYER: player2 | LEVEL: IQ Medium
+===========================================
+
+Question 1:
+Find the missing number 6 12 18 24 ?
+a) 28
+b) 30
+c) 32
+d) 36
+Result: CORRECT | Added: 10
+
+Question 2:
+Which is the smallest 2 5 9 11 ?
+a) 2
+b) 5
+c) 9
+d) 11
+Result: CORRECT | Added: 10
+
+Question 3:
+Which is greater 45 or 54 ?
+a) 45
+b) 54
+c) Both equal
+d) Cannot tell
+Result: CORRECT | Added: 15
+
+Question 4:
+Which word is opposite of false ?
+a) True
+b) Wrong
+c) Error
+d) None
+Result: CORRECT | Added: 10
+
+Question 5:
+What is the next number 50 45 40 ?
+a) 35
+b) 38
+c) 39
+d) 33
+Result: CORRECT | Added: 25
+
+Question 6:
+Find the odd one out  ?
+a) Red
+b) Blue
+c) Square
+d) Yellow
+Result: CORRECT | Added: 10
+
+Question 7:
+If 7 plus 3 is 10 then 7 minus 3 is ?
+a) 2
+b) 3
+c) 4
+d) 5
+Result: WRONG | Penalty: -3
+
+Question 8:
+Which number is 3 more than 27 ?
+a) 28
+b) 29
+c) 30
+d) 31
+Lifeline Used: Replace
+
+Question 8:
+If all cats are animals then all animals are ?
+a) Cats
+b) Dogs
+c) Not necessarily cats
+d) Humans
+Result: WRONG | Penalty: -3
+
+Question 9:
+Which is the odd word ?
+a) Run
+b) Walk
+c) Sit
+d) Jump
+Result: WRONG | Penalty: -3
+
+Question 10:
+Which number completes 2 4 8 16 ?
+a) 24
+b) 30
+c) 32
+d) 36
+Result: WRONG | Penalty: -3
+-------------------------------------------
+FINAL SCORE: 68
+===========================================
+
+===========================================
+PLAYER: usman | LEVEL: IQ Medium
+===========================================
+
+Question 1:
+Which shape has six sides ?
+a) Square
+b) Pentagon
+c) Hexagon
+d) Octagon
+Result: CORRECT | Added: 10
+
+Question 2:
+Which number is 3 more than 27 ?
+a) 28
+b) 29
+c) 30
+d) 31
+Result: CORRECT | Added: 10
+
+Question 3:
+Which number completes 2 4 8 16 ?
+a) 24
+b) 30
+c) 32
+d) 36
+Result: WRONG | Penalty: -3
+
+Question 4:
+Find the odd number 14 21 28 35 ?
+a) 14
+b) 21
+c) 28
+d) 35
+Result: WRONG | Penalty: -3
+
+Question 5:
+Which shape has the most corners  ?
+a) Triangle
+b) Square
+c) Pentagon
+d) Hexagon
+Result: WRONG | Penalty: -3
+
+Question 6:
+What is the next number 50 45 40 ?
+a) 35
+b) 38
+c) 39
+d) 33
+Result: CORRECT | Added: 10
+
+Question 7:
+What comes next in the pattern 2 5 8 11 ?
+a) 12
+b) 13
+c) 14
+d) 15
+Result: WRONG | Penalty: -3
+
+Question 8:
+If 100 is 10 tens then 200 is ?
+a) 15 tens
+b) 20 tens
+c) 25 tens
+d) 30 tens
+Result: WRONG | Penalty: -3
+
+Question 9:
+Which number is 3 more than 27 ?
+a) 28
+b) 29
+c) 30
+d) 31
+Result: WRONG | Penalty: -3
+
+Question 10:
+Which number is closest to 50 ?
+a) 42
+b) 46
+c) 53
+d) 60
+Result: WRONG | Penalty: -3
+-------------------------------------------
+FINAL SCORE: 9
+===========================================
+
