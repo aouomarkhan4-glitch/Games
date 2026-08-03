@@ -275,7 +275,7 @@ int main()
     while (true)
     {
         srand(time(0));
-        ifstream menu("menu.txt");
+        ifstream menu("assets/menu.txt");
         valid(menu);
         string str;
         int i;
