@@ -75,14 +75,14 @@ Simple on the surface — but every click is validated against the full rule set
 ```text
 Chess/
 │
-├── src/          → all .cpp source files
-├── include/       → all .h header files
+├── *.cpp          → source files
+├── *.h            → header files
 ├── assets/
 ├── screenshots/
 └── README.md
 ```
 
-Given the scale of a full chess engine, code is organized across multiple files — separating declarations (`include/`) from implementation (`src/`), the way real production C++ projects are structured.
+Given the scope of a full chess engine, the logic is split across multiple `.cpp`/`.h` files by responsibility (board, pieces, game rules, rendering, etc.) rather than a single monolithic file — even though they currently sit together at the project root.
 
 ---
 
